@@ -22,3 +22,5 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+Profe intente varias cosas para tratar de hacer que corra el server, pero nunca funciono, no se que mas hacer
